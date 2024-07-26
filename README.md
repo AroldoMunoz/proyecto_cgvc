@@ -1,42 +1,20 @@
-# Solar System Exploration Unity Project
+Exploración del Sistema Solar
 
-## Overview
+Descripción General
+Simulación interactiva permite a los usuarios explorar el sistema solar, visitar planetas y participar en diversas actividades en las superficies de planetas específicos.
 
-Welcome to the Solar System Exploration Unity project! This interactive simulation allows users to explore the solar system, visit planets, and engage in various activities on the surfaces of specific planets.
+Características
+Exploración Libre: Usa una nave espacial para navegar libremente y visitar diferentes planetas del sistema solar.
 
-## Features
+Menú de Planetas: Accede a un menú que lista todos los planetas del sistema solar. Al hacer clic en un planeta, el jugador puede acercarse directamente a él.
 
-- **Free Explore:** Use a spaceship to freely navigate and visit different planets in the solar system.
+Exploración de la Superficie Planetaria: Al colisionar con un planeta, ingresa a su superficie para explorar. Experimenta entornos únicos para cada planeta.
 
-- **Planets Menu:** Access a menu that lists all the planets in the solar system. Clicking on a planet allows the player to approach it directly.
+Actividades Interactivas:
 
-- **Planet Surface Exploration:** Upon colliding with a planet, enter its surface to roam and explore. Experience unique environments for each planet.
+Los primeros cuatro planetas tienen actividades en su superficie, incluyendo cuestionarios de opción múltiple y archivos de audio que explican las características.
 
-- **About Us:** Learn about the development team members by clicking on the "About" button.
+Modo de uso:
 
-- **AR Zone:** Explore planets in AR mode with 3D models hosted on the internet.
-
-- **Interactive Activities:**
-  - The first four planets have activities on their surface, including MCQ quizzes and audio files explaining the features. 
-
-- **Ebook Menu:** Access Tamil and English ebooks related to the solar system.
-
-## Instructions to Run the Simulation
-
-1. **Download the Game:**
-   - [Download Solar System Explorer](https://drive.google.com/drive/folders/1usW5owOOYV_9JbeOga6IL7zTXx09RmcD?usp=sharing)
-
-2. **Extract Files:**
-   - Extract the downloaded ZIP file to your preferred location.
-
-3. **Run the Simulation:**
-   - Open the extracted folder and run the executable file (e.g., `Solar System Simulation.exe`).
-
-4. **Explore the Solar System:**
-   - Use arrow keys or WASD to control the spaceship.
-   - Navigate through planets, visit surfaces, and engage in activities.
-
-
----
-
-**Enjoy your journey through the solar system! 🚀**
+Usa las teclas de flecha o WASD para controlar la nave espacial.
+Navega entre planetas, visita superficies y participa en actividades.
